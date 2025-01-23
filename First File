@@ -1,3 +1,5 @@
 Console.WriteLine("My Name is Zeeshan");
 Console.WriteLine("My Roll_No is 36");
 Console.WriteLine("2nd Semester Subjects "); 
+Console.WriteLine("1st Semester Subjests");
+Console.WriteLine("Fsc Subjests Name");
